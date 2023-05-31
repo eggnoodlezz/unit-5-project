@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color:mediumpurple;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.optionone{display:none;}
+
+.optiontwo{display:none;}
+
+.optionthree{display:none;}
+
+.optionfour{display:none;}
